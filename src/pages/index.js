@@ -5,7 +5,7 @@ import {
   headerTitleClass,
   headerLinkClass,
   headerClass,
-} from "./index.css.ts";
+} from "../styles/index.css.ts";
 
 // markup
 const IndexPage = () => {
