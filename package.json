@@ -16,7 +16,13 @@
   },
   "dependencies": {
     "gatsby": "^3.1.2",
+    "gatsby-plugin-typography": "^3.2.0",
+    "gatsby-plugin-vanilla-extract": "^1.0.3",
+    "open-color": "^1.8.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-grand-view": "^0.16.19"
   }
 }
