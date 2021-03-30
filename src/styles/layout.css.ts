@@ -2,8 +2,6 @@ import { style } from "@vanilla-extract/css";
 import { rhythm } from "../utils/typography";
 import colors from "open-color/open-color.json";
 
-console.log({ colors });
-
 export const className = style({});
 
 export const headerClass = style({
